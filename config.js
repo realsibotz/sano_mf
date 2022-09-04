@@ -7,15 +7,15 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['918101187835']
-global.OwnerNumber = ['918101187835']
-global.ownertag = ['918101187835']
-global.BotName = "Miku"
-global.packname = "Miku bot"
-global.author = "By: Fantox"
-global.OwnerName = "Fantox"
-global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
-global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
+global.Owner = ['62282239202895']
+global.OwnerNumber = ['62282239202895']
+global.ownertag = ['62282239202895']
+global.BotName = "Sano - Md"
+global.packname = "Sano - Md"
+global.author = "By: Alwi Ezy"
+global.OwnerName = "Alwi Ezy"
+global.BotSourceCode = "https://github.com/rilrealsi/Miku-MD"
+global.SupportGroupLink = "https://chat.whatsapp.com/Bh4Gk4ipq2pD3c3BJKyyk7"
 global.sessionName = "session"
 
 // Prefix //
@@ -23,11 +23,11 @@ global.sessionName = "session"
 global.prefa = ['-'] 
 
 
-global.location = "West Bengal, India"
+global.location = "Sulawesi,koltim"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
-global.websitex = "https://github.com/FantoX001"
+global.websitex = "https://github.com/rilrealsi"
 global.lolhuman = "KaysaS"
 
 
@@ -98,7 +98,7 @@ global.APIs = {
 	zenz: 'https://zenzapis.xyz',
 }
 global.APIKeys = {
-	'https://zenzapis.xyz': '5d1197db351b',
+	'https://zenzapis.xyz': 'bf326e9c53',
 }
 
 
